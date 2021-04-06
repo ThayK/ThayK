@@ -7,8 +7,8 @@ I teach programming to beginners in programming and here I show my codes.
 
  
 
- - Brazil 
- - BackEnd developer
+ - 📍  Brazil 
+ - 💻 BackEnd developer
  - ⚡ 25 years
 
 <!--
