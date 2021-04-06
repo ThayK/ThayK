@@ -1,6 +1,6 @@
 # Welcome 
 
-My name is Thayanna, I live in Brasília, Brazil.
+My name is Thayanna, I live in Brasília, Brazil 🇧🇷.
 I am a back-end developer.
 
 I teach programming to beginners in programming and here I show my codes. 
